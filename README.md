@@ -4,9 +4,9 @@
 
 ## Overview
 
-This repository documents my coursework, Python development, and applied financial analysis projects for **FIN 9762: Introduction to Quantitative Tools for Finance** at Baruch College.
+This repository documents my coursework, Python development and financial analysis projects for **FIN 9762: Introduction to Quantitative Tools for Finance** at Baruch College.
 
-The repository focuses on applying statistical methods, probability theory, and programming techniques to financial data, with an emphasis on developing practical analytical skills relevant to investment analysis, portfolio management, and financial risk.
+The repository focuses on applying statistical methods, probability theory and programming techniques to financial data, with an emphasis on developing practical analytical skills relevant to investment analysis, portfolio management and financial risk.
 
 ## Tools & Technologies
 
@@ -27,7 +27,7 @@ Recreated Exhibit 1 from the published research using Python to analyze historic
 
 **Key components:**
 - Imported and transformed historical monthly investment returns.
-- Calculated excess returns, annualized volatility, and Sharpe ratios.
+- Calculated excess returns, annualized volatility and Sharpe ratios.
 - Evaluated correlations across hedge fund strategies and the S&P 500.
 - Replicated published performance statistics and reconciled differences.
 - Automated the generation of formatted Excel reporting exhibits.
@@ -41,7 +41,7 @@ Recreated Exhibit 1 from the published research using Python to analyze historic
 This repository will continue to develop alongside my graduate coursework, with a focus on:
 
 - Probability and statistical distributions
-- Expected value, variance, covariance, and correlation
+- Expected value, variance, covariance and correlation
 - Portfolio risk and return analysis
 - Statistical inference and hypothesis testing
 - Regression analysis and financial econometrics
